@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DMX_Serial_Controller.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Einstellung" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="dmx_scene_save" Type="System.String" Scope="User">
+      <Value Profile="(Default)">
+                </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

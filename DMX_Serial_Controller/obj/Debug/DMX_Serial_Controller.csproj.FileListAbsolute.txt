@@ -1,0 +1,11 @@
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\bin\Debug\DMX_Serial_Controller.exe.config
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\bin\Debug\DMX_Serial_Controller.exe
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\bin\Debug\DMX_Serial_Controller.pdb
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.csproj.AssemblyReference.cache
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.csproj.SuggestedBindingRedirects.cache
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.Form1.resources
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.Properties.Resources.resources
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.csproj.GenerateResource.cache
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.csproj.CoreCompileInputs.cache
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.exe
+D:\Arduino\DMX Controller\C# Interface\DMX_Serial_Controller\DMX_Serial_Controller\obj\Debug\DMX_Serial_Controller.pdb
